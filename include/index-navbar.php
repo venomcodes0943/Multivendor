@@ -472,40 +472,6 @@
 														<li><a href="shop-left-sidebar.html">Simple Cameras</a></li>
 													</ul>
 												</div>
-												<div class="col-md-4">
-													<h6 class="black-color wd-sub-list-title">Cameras and photos</h6>
-													<ul class="wd-sub-menu">
-														<li><a href="shop-left-sidebar.html">Camera Electronice</a></li>
-														<li><a href="shop-left-sidebar.html">Camera Appereances</a></li>
-														<li><a href="shop-left-sidebar.html">DSLR</a></li>
-														<li><a href="shop-left-sidebar.html">Video cameras</a></li>
-														<li><a href="shop-left-sidebar.html">Top Cameras</a></li>
-														<li><a href="shop-left-sidebar.html">Cheap Cameras</a></li>
-														<li><a href="shop-left-sidebar.html">Best Cameras</a></li>
-														<li><a href="shop-left-sidebar.html">Luxury Cameras</a></li>
-														<li><a href="shop-left-sidebar.html">Simple Cameras</a></li>
-													</ul>
-												</div>
-												<div class="col-md-4">
-													<h6 class="black-color wd-sub-list-title">Cameras and photos</h6>
-													<ul class="wd-sub-menu">
-														<li><a href="shop-left-sidebar.html">Camera Electronice</a></li>
-														<li><a href="shop-left-sidebar.html">Camera Appereances</a></li>
-														<li><a href="shop-left-sidebar.html">DSLR</a></li>
-														<li><a href="shop-left-sidebar.html">Video cameras</a></li>
-														<li><a href="shop-left-sidebar.html">Top Cameras</a></li>
-														<li><a href="shop-left-sidebar.html">Cheap Cameras</a></li>
-														<li><a href="shop-left-sidebar.html">Best Cameras</a></li>
-														<li><a href="shop-left-sidebar.html">Luxury Cameras</a></li>
-														<li><a href="shop-left-sidebar.html">Simple Cameras</a></li>
-													</ul>
-												</div>
-												<div class="col-md-6">
-													<a href="product-details-scroll.html"><img src="img/department-img/department-sub-list-img-1.jpg" class="department-sub-list-img" alt="department-sub-list-img"></a>
-												</div>
-												<div class="col-md-6">
-													<a href="product-details-scroll.html"><img src="img/department-img/department-sub-list-img-2.jpg" class="department-sub-list-img" alt="department-sub-list-img"></a>
-												</div>
 											</div>
 										</div>
 									</div>
