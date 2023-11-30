@@ -6,10 +6,9 @@ include_once("include/index-navbar.php")
     ============================== -->
 <section id="main-slider-section">
 	<div id="main-slider" class="slider-bg2  owl-carousel owl-theme product-review slider-cat">
-		<div class="item d-flex  slider-bg align-items-center">
+		<div class="item d-flex  slider-bg align-items-center" style="background-image: url(img/slider-img/headphone.jpg);">
 			<div class="container-fluid">
 				<div class="row justify-content-end">
-
 					<div class="slider-text col-sm-6  col-xl-4   col-md-6 order-2 order-sm-1">
 						<h6 class="sub-title">Choose your favourite market</h6>
 						<h1 class="slider-title"><strong class="highlights-text">Compare</strong> Best Prices</h1>
@@ -18,13 +17,13 @@ include_once("include/index-navbar.php")
 							Go to store <i class="fa fa-arrow-right" aria-hidden="true"></i>
 						</a>
 					</div>
-					<div class="col-sm-6  col-md-6 col-xl-6 order-1 order-sm-2 slider-img">
-						<img src="img/slider-img/slider3.png" alt="">
+					<div class="col-sm-6 col-md-6 col-xl-6 order-1 order-sm-2 slider-img">
+						<img src="img/slider-img/watch.jpg" alt="" class="rounded">
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="item d-flex  slider-bg align-items-center">
+		<div class="item d-flex  slider-bg align-items-center" style="background-image: url(img/slider-img/shoes-bg.jpg);">
 			<div class="container-fluid">
 				<div class="row justify-content-end">
 					<div class="slider-text  col-sm-6 col-xl-4    col-md-6">
@@ -35,8 +34,8 @@ include_once("include/index-navbar.php")
 							Go to store <i class="fa fa-arrow-right" aria-hidden="true"></i>
 						</a>
 					</div>
-					<div class="col-sm-6 col-md-6 col-xl-6  slider-img fadeInDown animated">
-						<img src="img/slider-img/slider4.png" alt="">
+					<div class="col-sm-6 col-md-6 col-xl-6 mt-2 slider-img fadeInDown animated">
+						<img src="img/slider-img/shoes.jpg" alt="" class="rounded">
 					</div>
 				</div>
 			</div>
