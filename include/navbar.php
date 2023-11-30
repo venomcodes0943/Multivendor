@@ -120,7 +120,7 @@
 				============================== -->
                 <div class="order-2 order-sm-1 col-2 col-sm-2 col-md-4 d-block d-lg-none">
                     <div class="accordion-wrapper hide-sm-up">
-                        <a href="#" class="mobile-open"><i class="fa fa-bars"></i></a>
+                        <a href="#" class="mobile-open" style="color: #373632;"><i class="fa fa-bars"></i></a>
                         <!--Mobile Menu start-->
 
                         <ul id="mobilemenu" class="accordion">

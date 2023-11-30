@@ -370,7 +370,7 @@
 			<div class="row">
 				<div class="col-md-8 col-2 col-sm-6 col-md-4 d-block d-lg-none">
 					<div class="accordion-wrapper hide-sm-up">
-						<a href="#" class="mobile-open"><i class="fa fa-bars"></i></a>
+						<a href="#" class="mobile-open" style="color: #373632;"><i class="fa fa-bars"></i></a>
 						<!--Mobile Menu start-->
 
 						<ul id="mobilemenu" class="accordion">
