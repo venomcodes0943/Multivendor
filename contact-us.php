@@ -892,8 +892,7 @@
 					<div class="col-12 col-md-6 col-lg-3 col-xl-3">
 						<div class="contact-address-area">
 							<h4 class="contact-address-title">Address</h4>
-							<p class="contact-address-content">Your email address will not be published.
-							Required fields are marked *</p>
+							
 							<div class="contact-address">
 								<div class="media radius-icon-area">
 									<div class="radius-icon">
