@@ -381,57 +381,22 @@
 
 							<li class="out-link"><a class="" href="./index.php">home</a></li>
 							<li>
-								<div class="link">Comparison Product <i class="fa fa-chevron-down"></i></div>
-								<ul class="submenu font-sky">
-									<li><a href="./compare-products.php">Comparison Product</a></li>
-									<li><a href="./compare-products-single.php">Compare Products Single</a></li>
-									<li><a href="./compare-products-choose-market.php">Compare Products Choose Market</a></li>
-
-								</ul>
-							</li>
-							<li>
 								<div class="link">megamenu<i class="fa fa-chevron-down"></i></div>
 								<ul class="submenu ">
 									<li><a href="./shop-right-sidebar.php">Visual Phones</a></li>
 									<li><a href="./shop-right-sidebar.php">Chinese phones</a></li>
-									<li><a href="./shop-right-sidebar.php">Google Phones</a></li>
-									<li><a href="./shop-right-sidebar.php">Video cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Top Cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Cheap Cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Best Cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Luxury Cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Simple Cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Phone Electronice</a></li>
-									<li><a href="./shop-right-sidebar.php">Phone Appereances</a></li>
-									<li><a href="./shop-right-sidebar.php">Visual Phones</a></li>
-									<li><a href="./shop-right-sidebar.php">Chinese phones</a></li>
-									<li><a href="./shop-right-sidebar.php">Google Phones</a></li>
-									<li><a href="./shop-right-sidebar.php">Cheap Phones</a></li>
-									<li><a href="./shop-right-sidebar.php">Luxury phones</a></li>
-									<li><a href="./shop-right-sidebar.php">Simple phones</a></li>
-									<li><a href="./shop-right-sidebar.php">Camera Electronice</a></li>
-									<li><a href="./shop-right-sidebar.php">Camera Appereances</a></li>
-									<li><a href="./shop-right-sidebar.php">DSLR</a></li>
-									<li><a href="./shop-right-sidebar.php">Video cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Top Cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Cheap Cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Best Cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Luxury Cameras</a></li>
-									<li><a href="./shop-right-sidebar.php">Simple Cameras</a></li>
+									
 								</ul>
 
 							</li>
+							<li class="out-link"><a class="" href="./compare-products-single.php">Comparison Product</a></li>
+							
 							<li class="out-link"><a class="" href="./shop-right-sidebar.php">shop</a></li>
 
 							<li class="out-link"><a class="" href="./review-right-sidebar.php">review</a></li>
+							<li class="out-link"><a class="" href="./blog-two-grid.php">Blog</a></li>
 
-							<li>
-								<div class="link">Blog<i class="fa fa-chevron-down"></i></div>
-								<ul class="submenu">
-									<li><a href="./blog-two-grid.php">Blog Two Grid</a></li>
-									<li><a href="./single-blog-with.php">Single Blog</a></li>
-								</ul>
-							</li>
+							
 							<li class="out-link"><a class="" href="./coupon.php">Coupon</a></li>
 							<li class="out-link"><a class="" href="./contact-us.php">Contact</a></li>
 
@@ -575,21 +540,11 @@
 								<ul class="wd-megamenu-ul">
 									<li><a href="index.php" class="main-menu-list"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
 									</li>
-									<li><a href="compare-products.php" class="main-menu-list">Comparison Product <i class="fa fa-angle-down angle-down" aria-hidden="true"></i></a>
-										<ul class="single-dropdown">
-											<li><a href="compare-products.php">Comparison Product</a></li>
-											<li><a href="compare-products-single.php">Compare Products Single</a></li>
-											<li><a href="compare-products-choose-market.php">Compare Products Choose
-													Market</a></li>
-										</ul>
+									<li><a href="compare-products-single.php" class="main-menu-list">Comparison Product</a>
 									</li>
 									<li><a href="shop-right-sidebar.php" class="main-menu-list">Shop</a></li>
 									<li><a href="review-right-sidebar.php" class="main-menu-list">REVIEWS</a></li>
-									<li><a href="blog-four-grid-left-sidebar.html" class="main-menu-list">Blog</a>
-										<ul class="single-dropdown">
-											<li><a href="blog-two-grid.php">Blog Two Grid</a></li>
-											<li><a href="single-blog-with.php">Single Blog</a></li>
-										</ul>
+									<li class="pos-inherit"><a href="blog-two-grid.php" class="main-menu-list ">Blog</a>
 									</li>
 									<li><a href="coupon.php" class="main-menu-list">Coupon</a></li>
 									<li class="pos-inherit"><a href="contact-us.php" class="main-menu-list ">Contact us</a>
