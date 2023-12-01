@@ -12,14 +12,14 @@ include_once("include/index-navbar.php")
 					
 						<div class="slider-text col-sm-6  col-xl-4   col-md-6 order-2 order-sm-1">
 							<h6 class="sub-title">Choose your favourite market</h6>
-							<h1 class="slider-title"><strong class="highlights-text">Compare</strong> Best Prices</h1>
+							<h1 class="slider-title">Compare Best Prices</h1>
 							<p class="slider-content">Grabe it hurry.</p>
 							<a href="shop-left-sidebar.html" class="btn btn-primary wd-shop-btn slider-btn">
 								Go to store <i class="fa fa-arrow-right" aria-hidden="true"></i>
 							</a>
 						</div>
 						<div class="col-sm-6  col-md-6 col-xl-6 order-1 order-sm-2 slider-img">
-						    <img src="img/slider-img/slider2.png" alt="">
+						    <img src="img/slider-img/slider3.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -29,7 +29,7 @@ include_once("include/index-navbar.php")
 					<div class="row justify-content-end">
 						<div class="slider-text  col-sm-6 col-xl-4    col-md-6">
 							<h6 class="sub-title">Choose your favourite market</h6>
-							<h1 class="slider-title"><strong class="highlights-text">Compare</strong> Best Prices</h1>
+							<h1 class="slider-title">Compare Best Prices</h1>
 							<p class="slider-content">Grabe it hurry.</p>
 							<a href="shop-left-sidebar.html" class="btn btn-primary wd-shop-btn slider-btn">
 								Go to store <i class="fa fa-arrow-right" aria-hidden="true"></i>
